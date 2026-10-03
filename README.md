@@ -66,6 +66,3 @@ Looking for entry-level roles in:
 
 ---
 
-Credit [iahsanujunda](https://github.com/iahsanujunda)
-
-Last Edited on: 14/02/2021
