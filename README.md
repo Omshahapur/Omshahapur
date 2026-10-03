@@ -5,16 +5,39 @@
 [![Gmail](https://img.shields.io/badge/-shahapurom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shahapurom@gmail.com)
 [![Blog](https://img.shields.io/badge/-Omshahapur.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Omshahapur)
 
-<!--Introduction -->
-I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
+# Hi, I'm Om Shahapur 👋
 
-- 📚 I’m currently learning causal inference extensively for work
-- 🐝 I have worked on several side projects on a web development using MERN stack that is deployed to Heroku
-- 🔭 I'm doing a personal research project on realtime embedded systems for waste management
-- 🌱 I'm looking to get more familiar with GCP ecosystems
-- 🍰 Fun fact: Me and my wife is a surprisingly good baker, a hobby that we both picked up due to COVID-19 pandemic and turned into business
+**AI & ML Engineer (B.E. 2026) | Python • Machine Learning • Android (Kotlin)**
 
----
+I'm an Artificial Intelligence & Machine Learning graduate from Basaveshwar Engineering College, Bagalkot. I build practical AI projects, from real-time computer vision to scam detection, and apply them to real-world problems.
+
+## 🚀 Featured Projects
+
+- 🌿 **Paryavaran Kavalu** – Android app (Kotlin, Jetpack Compose, Firebase) for geo-tagging and reporting illegal garbage dumps, with authentication, Google Maps integration, and image uploads. Built during my MindMatrix VTU internship.
+- 🔢 **[Real-Time Handwritten Digit Recognition](https://github.com/Omshahapur/mini-project)** – CNN trained on MNIST (~98% accuracy) with OpenCV and voice feedback via pyttsx3 to assist young learners and people with disabilities.
+- 🛡️ **[AI-Powered Fake Communication Detection](https://github.com/Omshahapur/Fake-Communication-Detection)** – Detects spam, phishing, WhatsApp scams, and fake voice calls using TF-IDF + SVM and MFCC audio features, served through a Flask web app.
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C, Kotlin, SQL
+**AI/ML:** TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy
+**Data & Visualization:** Power BI, Matplotlib, Excel, EDA
+**Web & Mobile:** Flask, Jetpack Compose, Firebase
+**Tools & Cloud:** Git/GitHub, Docker, AWS, Linux, Maven, VS Code, Jupyter
+
+## 🎓 Education & Certifications
+
+- B.E. in AI & ML, Basaveshwara Engineering College, Bagalkot (2026)
+- DevOps with AWS (Wiculty) • Docker for the Absolute Beginner (OnWingspan)
+
+## 🌱 Currently
+
+- Looking for opportunities in AI/ML and data analytics
+- Exploring Android development with Generative AI tools
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/om-shahapur) • shahapurom@gmail.com
 
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
