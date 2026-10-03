@@ -30,14 +30,13 @@ I'm an Artificial Intelligence & Machine Learning graduate from Basaveshwar Engi
 - B.E. in AI & ML, Basaveshwara Engineering College, Bagalkot (2026)
 - DevOps with AWS (Wiculty) • Docker for the Absolute Beginner (OnWingspan)
 
-## 🌱 Currently
+## 🎯 Open to Opportunities
 
-- Looking for opportunities in AI/ML and data analytics
-- Exploring Android development with Generative AI tools
+Looking for entry-level roles in:
 
-## 📫 Connect
-
-[LinkedIn](https://linkedin.com/in/om-shahapur) • shahapurom@gmail.com
+- **Python Development** – building clean, practical applications and backends
+- **AI / Machine Learning** – applying ML, deep learning, and computer vision to real problems
+- **Data Analytics** – EDA, visualization, and insights using Python, SQL, Power BI, and Excel
 
 ### Skills for Work
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
