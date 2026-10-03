@@ -2,8 +2,8 @@
 # Greetings, I'm Om Shahapur! :wave:
 
 [![Linkedin](https://img.shields.io/badge/-Om_Shahapur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/om-shahapur)
-[![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
-[![Blog](https://img.shields.io/badge/-iahsanujunda.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://iahsanujunda.github.io)
+[![Gmail](https://img.shields.io/badge/-shahapurom@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shahapurom@gmail.com)
+[![Blog](https://img.shields.io/badge/-Omshahapur.github.io-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Omshahapur)
 
 <!--Introduction -->
 I'm a **Lead Data Scientist** at [DANA Indonesia](https://dana.id), a digital payment provider in Indonesia, where I build production ready modules that leveraged statistical and learning models mainly to combat payment fraud and provide personalised experience to DANA users. Outside of work, I run freelance web development projects.
