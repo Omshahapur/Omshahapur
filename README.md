@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Greetings, I'm Junda! :wave:
+# Greetings, I'm Om Shahapur! :wave:
 
 [![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izzuddinahsanujunda/)
 [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:izzuddin.ahsanujunda@gmail.com)
